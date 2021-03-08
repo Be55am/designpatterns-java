@@ -1,4 +1,4 @@
-package com.bessam.patterns.creational;
+package com.bessam.patterns.creational.singleton;
 
 import java.sql.Connection;
 import java.sql.SQLException;
